@@ -1,16 +1,101 @@
-## Hi there 👋
+```
+ ___  ___ ___   ___   ___     ___  _  _ _  _ ___ ___
+|_ _|/ __/ _ \ / _ \ / __|   | __|| || | \| | __/ __|
+ | | \__ \__ /| (_) | (__    | _|| \_/ | .` | _|\__ \
+|___||___\___/ \__\_\\___|   |_|  \___/|_|\_|___|___/
+```
 
-<!--
-**KingTheoden1/KingTheoden1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Isaac Funes 👋
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me:
+
+- 🌐 Frontend-focused full-stack developer specializing in React, Next.js, and TypeScript
+- 🎨 Design-first workflow — prototyping in Figma before writing a single line of code
+- 🚀 Currently building **F1 Pulse** — a Formula 1 companion app powered by the Jolpica API & Framer Motion
+- 💼 Delivered and maintained **13+ client websites** spanning STEM, solar, landscaping, and nonprofit sectors
+- ⚡ Recently rebuilt full organizational sites using Next.js (AAIS) and React (Robo Mania STEM)
+- 🛒 Built a CoinPulse crypto dashboard with live pricing via the CoinGecko API (TypeScript)
+- 📍 Based in College Station, TX
+
+---
+
+## Skill Set:
+
+<table>
+  <tr>
+    <td valign="top"><b>Frontend</b></td>
+    <td valign="top"><b>Languages</b></td>
+    <td valign="top"><b>Tools & Platforms</b></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" />
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" />
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" />
+    </td>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
+    </td>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" />
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
+      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" />
+      <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" title="WordPress" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## Connect with me:
+
+<p align="center">
+  <a href="https://github.com/KingTheoden1">
+    <img src="https://img.shields.io/badge/GitHub-KingTheoden1-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/isaacfunes/">
+    <img src="https://img.shields.io/badge/LinkedIn-Isaac%20Funes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:isaacfunes@icloud.com">
+    <img src="https://img.shields.io/badge/Email-isaacfunes@icloud.com-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+  <a href="https://eportfolio-alpha.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingTheoden1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KingTheoden1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KingTheoden1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KingTheoden1&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KingTheoden1&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">💻 Check Out My Repos ⬇️</p>
