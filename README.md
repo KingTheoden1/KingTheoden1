@@ -20,30 +20,51 @@
 
 <table>
   <tr>
-    <td valign="top"><b>Frontend</b></td>
     <td valign="top"><b>Languages</b></td>
-    <td valign="top"><b>Tools & Platforms</b></td>
+    <td valign="top"><b>Frameworks & Libraries</b></td>
+    <td valign="top"><b>Back-End & Databases</b></td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" />
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" />
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" />
+      <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
     </td>
     <td valign="top">
-      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" />
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui,firebase" />
     </td>
     <td valign="top">
-      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" />
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
-      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" />
-      <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" title="WordPress" />
+      <img src="https://skillicons.dev/icons?i=nodejs,mysql" /><br/><br/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Cloud & DevOps</b></td>
+    <td valign="top"><b>CMS & Design</b></td>
+    <td valign="top"><b>Certifications</b></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=aws,vercel,git,github,githubactions" /><br/><br/>
+      <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white" />
+    </td>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=wordpress,figma" /><br/><br/>
+      <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" />
+      <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/Wix-000000?style=flat-square&logo=wix&logoColor=white" />
+      <img src="https://img.shields.io/badge/DotNetNuke-512BD4?style=flat-square&logo=.net&logoColor=white" />
+      <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
+      <img src="https://img.shields.io/badge/Divi-2EA3F2?style=flat-square&logo=wordpress&logoColor=white" />
+      <img src="https://img.shields.io/badge/Avada-3BAFDA?style=flat-square&logo=wordpress&logoColor=white" />
+      <img src="https://img.shields.io/badge/Yoast%20SEO-9B59B6?style=flat-square&logo=yoast&logoColor=white" />
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Google-Analytics%20Certified-E37400?style=flat-square&logo=google-analytics&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/IBM-SQL%20%26%20Databases-1261FE?style=flat-square&logo=ibm&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/HubSpot-Service%20Hub-FF7A59?style=flat-square&logo=hubspot&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/IBM-Git%20%26%20GitHub-1261FE?style=flat-square&logo=ibm&logoColor=white" />
     </td>
   </tr>
 </table>
