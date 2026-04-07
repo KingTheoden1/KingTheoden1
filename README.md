@@ -49,7 +49,7 @@
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" /><br>Node.js</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" /><br>MySQL</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/ibm/1261FE" width="48" height="48" /><br>IBM Db2</td>
+    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_IBM_DB2.png" width="48" height="48" /><br>IBM Db2</td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" height="48" /><br>REST APIs</td>
     <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="32" /><br>Tableau</td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="48" height="48" /><br>WebSockets</td>
@@ -65,7 +65,6 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" /><br>Git</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /><br>GitHub</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" /><br>GitHub Actions</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/ibmcloud/1261FE" width="48" height="48" /><br>IBM Cloud</td>
   </tr>
 </table>
 
@@ -92,9 +91,9 @@
 <table>
   <tr>
     <td align="center" width="120"><img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="48" height="48" /><br>Google Analytics<br>Certified</td>
-    <td align="center" width="120"><img src="https://cdn.simpleicons.org/ibm/1261FE" width="48" height="48" /><br>IBM SQL &<br>Databases</td>
+    <td align="center" width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="48" height="48" /><br>IBM SQL &<br>Databases</td>
     <td align="center" width="120"><img src="https://cdn.simpleicons.org/hubspot/FF7A59" width="48" height="48" /><br>HubSpot<br>Service Hub</td>
-    <td align="center" width="120"><img src="https://cdn.simpleicons.org/ibm/1261FE" width="48" height="48" /><br>IBM Git &<br>GitHub</td>
+    <td align="center" width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="48" height="48" /><br>IBM Git &<br>GitHub</td>
   </tr>
 </table>
 
