@@ -1,9 +1,4 @@
-```
- ___  ___ ___   ___   ___     ___  _  _ _  _ ___ ___
-|_ _|/ __/ _ \ / _ \ / __|   | __|| || | \| | __/ __|
- | | \__ \__ /| (_) | (__    | _|| \_/ | .` | _|\__ \
-|___||___\___/ \__\_\\___|   |_|  \___/|_|\_|___|___/
-```
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:3d2c8d&height=200&section=header&text=Isaac%20Funes&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=18&descColor=a0a0cc)](https://github.com/KingTheoden1)
 
 # Hi, I'm Isaac Funes 👋
 
@@ -77,11 +72,11 @@
 ## GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingTheoden1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingTheoden1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KingTheoden1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KingTheoden1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
