@@ -69,22 +69,9 @@
 
 ---
 
-## GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingTheoden1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KingTheoden1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=KingTheoden1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KingTheoden1&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 <p align="center">
